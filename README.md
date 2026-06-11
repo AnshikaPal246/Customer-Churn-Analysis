@@ -40,3 +40,4 @@ The primary objective is to understand why customers leave the company and deter
 * Customer Segmentation Filters
 ## Outcome
 The project demonstrates end-to-end analytical capabilities, including data cleaning, SQL querying, business analysis, dashboard creation, and actionable recommendation generation.
+## Screenshot 
