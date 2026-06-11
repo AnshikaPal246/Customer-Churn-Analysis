@@ -29,6 +29,9 @@ The primary objective is to understand why customers leave the company and deter
 * Enhance customer support services.
 * Review pricing strategies for high-risk customer segments.
 * Promote automatic payment methods to improve customer retention.
+
+![Screenshot](https://github.com/AnshikaPal246/Customer-Churn-Analysis/blob/main/Snapshot%20of%20Dashboard.png)
+
 ## Dashboard Features
 * Total Customers KPI
 * Churned Customers KPI
