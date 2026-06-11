@@ -13,7 +13,7 @@ The primary objective is to understand why customers leave the company and deter
 1. Data Cleaning and Preprocessing
 2. Exploratory Data Analysis (EDA)
 3. SQL-Based Business Analysis
-4. KPI Development
+4. KPI Development and Dax Measure 
 5. Dashboard Design in Power BI
 6. Business Insights and Recommendations
 ## Key Findings
